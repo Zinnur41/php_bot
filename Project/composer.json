@@ -1,0 +1,24 @@
+{
+  "name": "elirector/project",
+  "type": "project",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Zinnur",
+      "email": "zagidullin_zin@mail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "psr/log": "*",
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "irazasyed/telegram-bot-sdk": "3.x-dev"
+  }
+}

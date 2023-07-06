@@ -1,0 +1,41 @@
+.main-text1 {
+    background-color: #000000;
+    background-image: url(https://gamerwall.pro/uploads/posts/2022-03/1648115169_59-gamerwall-pro-p-zadnii-fon-dlya-avto-krasivie-71.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10em;
+    text-align: center;
+}
+.p-text {
+    position: relative;
+    bottom: 140px;
+    text-align: center;
+    font-size: 35px;
+    line-height: 38px;
+}
+.img-text-end {
+    position: relative;
+    top: 140px;
+}
+.p-text1 {
+    position: relative;
+    bottom: 140px;
+}
+*,
+html,
+body {
+    font-family:"Roboto", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.block-content p {
+    margin: 0;
+}
